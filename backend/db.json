@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "123456"
+    },
+    {
+      "id": "87d1",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "password": "password123"
+    },
+    {
+      "id": "aeb1",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "password": "password123"
+    },
+    {
+      "id": "cc92",
+      "name": "John D",
+      "email": "john.d@example.com",
+      "password": "1234"
+    },
+    {
+      "id": "6913",
+      "name": "anaya K",
+      "email": "ayana@example.com",
+      "password": "12345"
+    },
+    {
+      "id": "2416",
+      "name": "Ananya K",
+      "email": "ananya@example.com",
+      "password": "1234"
+    },
+    {
+      "id": "7302",
+      "name": "Nanny",
+      "email": "nanny@example.com",
+      "password": "nanny12"
+    },
+    {
+      "id": "47fb",
+      "name": "abc",
+      "email": "abc@example.com",
+      "password": "123"
+    },
+    {
+      "id": "9e8e",
+      "name": "Amita K",
+      "email": "amita@example.com",
+      "password": "1234"
+    },
+    {
+      "id": "4b5d",
+      "name": "anaya kumar",
+      "email": "anayak@example.com",
+      "password": "12345"
+    }
+  ],
+  "defectData": [
+    {
+      "id": "1",
+      "defectType": "Crack",
+      "location": "Section A",
+      "timestamp": "2024-07-28T10:00:00Z"
+    }
+  ]
+}
